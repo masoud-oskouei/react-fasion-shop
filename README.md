@@ -1,6 +1,6 @@
 # A Minimalistic Fasion Shop Using React.js
 
-## To see the app working <https://protected-falls-82969.herokuapp.com/>
+## To see the app working
 
 Go to <https://protected-falls-82969.herokuapp.com/>
 
